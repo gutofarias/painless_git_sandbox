@@ -1,7 +1,7 @@
 # Ten Best Small Mammals
 
 1.  Otters
-1.  Shena
+1.  Shena rapariga
 2.  Dogs
 3.  Chinchillas
 4.  Guinea Pigs
