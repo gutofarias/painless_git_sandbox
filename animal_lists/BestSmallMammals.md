@@ -1,6 +1,7 @@
 # Ten Best Small Mammals
 
 1.  Cats
+1.  Otters
 2.  Dogs
 3.  Chinchillas
 4.  Guinea Pigs
@@ -9,7 +10,3 @@
 7.  Oh yeah!
 8.  I remember now.
 9.  Rabbits
-10. Skunks
-11. Shena
-12. Rapariga
-13. undo-fu
